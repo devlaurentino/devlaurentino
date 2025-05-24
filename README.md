@@ -1,7 +1,7 @@
-## Olá, como vai? - Hello, how are you? - Bonjour comment allez-vous? 👋
+## Olá mundo, como vai? - Hello, how are you? - Bonjour comment allez-vous? 👋
 
 - 🔭 Hoje trabalho na área da saúde.
-- 🌱 Atualmente, estudando Python.
+- 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS).
 - 👯 Em transição de carreira para tecnologia.
 - 💬 Pode me perguntar sobre: jogos, filmes, séries e músicas.
 
